@@ -8,4 +8,6 @@ Iniciando minha carreira
 
   #### Você também me encontra aqui:
 
-  <a href="https://www.instagram.com/caionobreg_/"><imag srs="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+   <a href="https://www.instagram.com/caionobreg_/">
+ <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+   </a>  
