@@ -2,7 +2,7 @@
 Iniciando minha carreira 
 
 - 👨‍💻 **Estudante** em ADS (Análise e Desenvolvimento de Sistemas) na [UNINASSAU](https://www.uninassau.edu.br/)
-- 🏞️ **Front-End** penso em entra nessa area
+- 🏞️ **Front-End** Aréa que dejeso entrar
 
 ##
 
