@@ -3,7 +3,7 @@ Iniciando minha carreira
 
 - 👨‍💻 **Estudante** em ADS (Análise e Desenvolvimento de Sistemas) na [UNINASSAU](https://www.uninassau.edu.br/).
 - 🏞️ **Back-End** e uma area em que me indentifico muito.
--  ☕︎  **Java** essa e a linguagem onde meu foco e detinado.
+- ☕︎ /n **Java** essa e a linguagem onde meu foco e detinado.
 
 ##
 
