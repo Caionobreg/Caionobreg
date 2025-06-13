@@ -1,8 +1,9 @@
 ## Ola, sou Caio Nóbrega
 Iniciando minha carreira 
 
-- 👨‍💻 **Estudante** em ADS (Análise e Desenvolvimento de Sistemas) na [UNINASSAU](https://www.uninassau.edu.br/)
-- 🏞️ **Front-End** Aréa que dejeso entrar
+- 👨‍💻 **Estudante** em ADS (Análise e Desenvolvimento de Sistemas) na [UNINASSAU](https://www.uninassau.edu.br/).
+- 🏞️ **Back-End** e uma area em que me indentifico muito.
+- ☕︎ **Java** essa e a linguagem onde meu foco e detinado.
 
 ##
 
