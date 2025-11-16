@@ -1,4 +1,3 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d5a8ec6a-7da6-4404-81cc-1de62e0ed9d9" />
 ## Ola, sou Caio Nóbrega
 Iniciando minha carreira 
 
